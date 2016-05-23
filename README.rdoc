@@ -1,2 +1,2 @@
-#
+##
 My first application in Ruby on Rails
